@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.a{
+	margin:20px;
+	border:1px solid black;
+	width:60%;
+}
+.b{
+	border:15px solid blue;
+	margin:20px;
+}
+.c{
+	padding:50px;
+	background-color:lightblue;
+}
+.d{
+	width:300px;
+	border:1px solid black;
+}
+p{
+	border:1px dashed black;
+}
