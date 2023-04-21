@@ -1,22 +1,8 @@
-
-/* Your CSS Code here. */
-.a{
-	margin:20px;
-	border:1px solid black;
-	width:60%;
-}
-.b{
-	border:15px solid blue;
-	margin:20px;
-}
-.c{
+div{
+	content:"This is a demo of box model, try to replicate this box model in Html and Css and try to pass all the test cases."";
+	width:300px;
 	padding:50px;
 	background-color:lightblue;
-}
-.d{
-	width:300px;
-	border:1px solid black;
-}
-p{
-	border:1px dashed black;
+	border:15px solid blue;
+	margin:20px;
 }
